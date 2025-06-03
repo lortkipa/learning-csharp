@@ -38,7 +38,7 @@ namespace Task_1
             Console.WriteLine("-----------------------------------");
 
             // calculate average
-            byte average = (byte)((score1 + score2 + score3) / 3);
+            float average = score1 + score2 + score3 / 3;
 
             // log average
             Console.WriteLine("Average Score Of Students Is: " + average);
