@@ -26,72 +26,180 @@ namespace Task_2
             switch (month.ToLower())
             {
                 case "january":
+                    if (day > 31)
+                    {
+                        // log errors
+                        Console.WriteLine("[ERROR]: Invalid Day Provided");
+                        
+                        // exit the program
+                        return;
+                    }
+
                     if (day <= 19)
                         zodiac = "Capricorn";
                     else
                         zodiac = "Aquarius";
                     break;
                 case "february":
+                    if (day > 28)
+                    {
+                        // log errors
+                        Console.WriteLine("[ERROR]: Invalid Day Provided");
+                        
+                        // exit the program
+                        return;
+                    }
+
                     if (day <= 18)
                         zodiac = "Aquarius";
                     else
                         zodiac = "Pisces";
                     break;
                 case "march":
+                    if (day > 31)
+                    {
+                        // log errors
+                        Console.WriteLine("[ERROR]: Invalid Day Provided");
+                        
+                        // exit the program
+                        return;
+                    }
+
                     if (day <= 20)
                         zodiac = "Pisces";
                     else
                         zodiac = "Aries";
                     break;
                 case "april":
+                    if (day > 30)
+                    {
+                        // log errors
+                        Console.WriteLine("[ERROR]: Invalid Day Provided");
+                        
+                        // exit the program
+                        return;
+                    }
+
                     if (day <= 19)
                         zodiac = "Aries";
                     else
                         zodiac = "Taurus";
                     break;
                 case "may":
+                    if (day > 31)
+                    {
+                        // log errors
+                        Console.WriteLine("[ERROR]: Invalid Day Provided");
+                        
+                        // exit the program
+                        return;
+                    }
+
                     if (day <= 20)
                         zodiac = "Taurus";
                     else
                         zodiac = "Gemini";
                     break;
                 case "june":
+                    if (day > 30)
+                    {
+                        // log errors
+                        Console.WriteLine("[ERROR]: Invalid Day Provided");
+                        
+                        // exit the program
+                        return;
+                    }
+
                     if (day <= 20)
                         zodiac = "Gemini";
                     else
                         zodiac = "Cancer";
                     break;
                 case "july":
+                    if (day > 31)
+                    {
+                        // log errors
+                        Console.WriteLine("[ERROR]: Invalid Day Provided");
+                        
+                        // exit the program
+                        return;
+                    }
+
                     if (day <= 22)
                         zodiac = "Cancer";
                     else
                         zodiac = "Leo";
                     break;
                 case "august":
+                    if (day > 31)
+                    {
+                        // log errors
+                        Console.WriteLine("[ERROR]: Invalid Day Provided");
+                        
+                        // exit the program
+                        return;
+                    }
+
                     if (day <= 22)
                         zodiac = "Leo";
                     else
                         zodiac = "Virgo";
                     break;
                 case "september":
+                    if (day > 30)
+                    {
+                        // log errors
+                        Console.WriteLine("[ERROR]: Invalid Day Provided");
+                        
+                        // exit the program
+                        return;
+                    }
+
                     if (day <= 22)
                         zodiac = "Virgo";
                     else
                         zodiac = "Libra";
                     break;
                 case "october":
+                    if (day > 31)
+                    {
+                        // log errors
+                        Console.WriteLine("[ERROR]: Invalid Day Provided");
+                        
+                        // exit the program
+                        return;
+                    }
+
                     if (day <= 22)
                         zodiac = "Libra";
                     else
                         zodiac = "Scorpio";
                     break;
                 case "november":
+                    if (day > 30)
+                    {
+                        // log errors
+                        Console.WriteLine("[ERROR]: Invalid Day Provided");
+                        
+                        // exit the program
+                        return;
+                    }
+
                     if (day <= 21)
                         zodiac = "Scorpio";
                     else
                         zodiac = "Sagittarius";
                     break;
                 case "december":
+                    if (day > 31)
+                    {
+                        // log errors
+                        Console.WriteLine("[ERROR]: Invalid Day Provided");
+                        
+                        // exit the program
+                        return;
+                    }
+
                     if (day <= 21)
                         zodiac = "Sagittarius";
                     else
