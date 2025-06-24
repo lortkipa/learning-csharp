@@ -1,0 +1,7 @@
+C:\Users\Nika\learning-csharp\homework 8\Task 7\bin\Debug\Task 7.exe.config
+C:\Users\Nika\learning-csharp\homework 8\Task 7\bin\Debug\Task 7.exe
+C:\Users\Nika\learning-csharp\homework 8\Task 7\bin\Debug\Task 7.pdb
+C:\Users\Nika\learning-csharp\homework 8\Task 7\obj\Debug\Task 7.csproj.AssemblyReference.cache
+C:\Users\Nika\learning-csharp\homework 8\Task 7\obj\Debug\Task 7.csproj.CoreCompileInputs.cache
+C:\Users\Nika\learning-csharp\homework 8\Task 7\obj\Debug\Task 7.exe
+C:\Users\Nika\learning-csharp\homework 8\Task 7\obj\Debug\Task 7.pdb
