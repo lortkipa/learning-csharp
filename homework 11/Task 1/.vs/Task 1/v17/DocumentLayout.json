@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nika\\learning-csharp\\homework 11\\Task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{176DF942-DB98-4C48-8669-CF2ED60D78ED}|Task 1.csproj|c:\\users\\nika\\learning-csharp\\homework 11\\task 1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{176DF942-DB98-4C48-8669-CF2ED60D78ED}|Task 1.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DC90EF-8440-4338-9751-1BB8A6E389E5}|..\\Task 2\\Task 2.csproj|c:\\users\\nika\\learning-csharp\\homework 11\\task 2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DC90EF-8440-4338-9751-1BB8A6E389E5}|..\\Task 2\\Task 2.csproj|c:\\users\\nika\\learning-csharp\\homework 11\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176DF942-DB98-4C48-8669-CF2ED60D78ED}|Task 1.csproj|c:\\users\\nika\\learning-csharp\\homework 11\\task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176DF942-DB98-4C48-8669-CF2ED60D78ED}|Task 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\homework 11\\Task 1\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\homework 11\\Task 1\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-23T08:14:31.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\homework 11\\Task 2\\README.md",
+              "RelativeDocumentMoniker": "..\\Task 2\\README.md",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\homework 11\\Task 2\\README.md",
+              "RelativeToolTip": "..\\Task 2\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-23T08:14:10.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\homework 11\\Task 2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\homework 11\\Task 2\\Program.cs",
+              "RelativeToolTip": "..\\Task 2\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:01:54.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\homework 11\\Task 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\homework 11\\Task 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:51:50.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
