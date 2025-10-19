@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{262EAFBB-4CFB-47E1-9D64-85A56C1CE73B}|Task 1.csproj|c:\\users\\nika\\learning-csharp\\classwork 18\\task 1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{262EAFBB-4CFB-47E1-9D64-85A56C1CE73B}|Task 1.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866BB9CB-F121-435E-BF71-D3FED69FD41C}|..\\Task 2\\Task 2.csproj|c:\\users\\nika\\learning-csharp\\classwork 18\\task 2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866BB9CB-F121-435E-BF71-D3FED69FD41C}|..\\Task 2\\Task 2.csproj|c:\\users\\nika\\learning-csharp\\classwork 18\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866BB9CB-F121-435E-BF71-D3FED69FD41C}|..\\Task 2\\Task 2.csproj|c:\\users\\nika\\learning-csharp\\classwork 18\\task 2\\studentteachertester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866BB9CB-F121-435E-BF71-D3FED69FD41C}|..\\Task 2\\Task 2.csproj|c:\\users\\nika\\learning-csharp\\classwork 18\\task 2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866BB9CB-F121-435E-BF71-D3FED69FD41C}|..\\Task 2\\Task 2.csproj|c:\\users\\nika\\learning-csharp\\classwork 18\\task 2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262EAFBB-4CFB-47E1-9D64-85A56C1CE73B}|Task 1.csproj|c:\\users\\nika\\learning-csharp\\classwork 18\\task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262EAFBB-4CFB-47E1-9D64-85A56C1CE73B}|Task 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262EAFBB-4CFB-47E1-9D64-85A56C1CE73B}|Task 1.csproj|c:\\users\\nika\\learning-csharp\\classwork 18\\task 1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262EAFBB-4CFB-47E1-9D64-85A56C1CE73B}|Task 1.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262EAFBB-4CFB-47E1-9D64-85A56C1CE73B}|Task 1.csproj|c:\\users\\nika\\learning-csharp\\classwork 18\\task 1\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262EAFBB-4CFB-47E1-9D64-85A56C1CE73B}|Task 1.csproj|solutionrelative:ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 1\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 1\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-19T13:59:14.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 2\\App.config",
+              "RelativeDocumentMoniker": "..\\Task 2\\App.config",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 2\\App.config",
+              "RelativeToolTip": "..\\Task 2\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-19T13:54:03.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentTeacherTester.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 2\\StudentTeacherTester.cs",
+              "RelativeDocumentMoniker": "..\\Task 2\\StudentTeacherTester.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 2\\StudentTeacherTester.cs",
+              "RelativeToolTip": "..\\Task 2\\StudentTeacherTester.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T13:46:12.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 2\\Person.cs",
+              "RelativeDocumentMoniker": "..\\Task 2\\Person.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 2\\Person.cs",
+              "RelativeToolTip": "..\\Task 2\\Person.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T13:33:50.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 2\\README.md",
+              "RelativeDocumentMoniker": "..\\Task 2\\README.md",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 2\\README.md",
+              "RelativeToolTip": "..\\Task 2\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-19T13:33:19.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 2\\Program.cs",
+              "RelativeToolTip": "..\\Task 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T13:32:35.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 1\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 1\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T13:21:56.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 1\\IVehicle.cs",
+              "RelativeDocumentMoniker": "IVehicle.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 1\\IVehicle.cs",
+              "RelativeToolTip": "IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T13:21:02.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\classwork 18\\Task 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T13:18:14.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
