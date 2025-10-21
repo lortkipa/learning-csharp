@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nika\\learning-csharp\\homework 17\\Task 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF0741E-446C-4888-9BFE-6ADD7E5AC85D}|..\\Task 3\\Task 3.csproj|c:\\users\\nika\\learning-csharp\\homework 17\\task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D56D434-1FF9-423A-AAFA-62E446EE7D08}|Task 2.csproj|c:\\users\\nika\\learning-csharp\\homework 17\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D56D434-1FF9-423A-AAFA-62E446EE7D08}|Task 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF0741E-446C-4888-9BFE-6ADD7E5AC85D}|..\\Task 3\\Task 3.csproj|c:\\users\\nika\\learning-csharp\\homework 17\\task 3\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF0741E-446C-4888-9BFE-6ADD7E5AC85D}|..\\Task 3\\Task 3.csproj|c:\\users\\nika\\learning-csharp\\homework 17\\task 3\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D56D434-1FF9-423A-AAFA-62E446EE7D08}|Task 2.csproj|c:\\users\\nika\\learning-csharp\\homework 17\\task 2\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D56D434-1FF9-423A-AAFA-62E446EE7D08}|Task 2.csproj|solutionrelative:numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF0741E-446C-4888-9BFE-6ADD7E5AC85D}|..\\Task 3\\Task 3.csproj|c:\\users\\nika\\learning-csharp\\homework 17\\task 3\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D56D434-1FF9-423A-AAFA-62E446EE7D08}|Task 2.csproj|c:\\users\\nika\\learning-csharp\\homework 17\\task 2\\ioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D56D434-1FF9-423A-AAFA-62E446EE7D08}|Task 2.csproj|solutionrelative:ioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Numbers.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\homework 17\\Task 3\\Numbers.cs",
+              "RelativeDocumentMoniker": "..\\Task 3\\Numbers.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\homework 17\\Task 3\\Numbers.cs",
+              "RelativeToolTip": "..\\Task 3\\Numbers.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:40:41.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICalculate.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\homework 17\\Task 3\\ICalculate.cs",
+              "RelativeDocumentMoniker": "..\\Task 3\\ICalculate.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\homework 17\\Task 3\\ICalculate.cs",
+              "RelativeToolTip": "..\\Task 3\\ICalculate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:33:43.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\homework 17\\Task 3\\App.config",
+              "RelativeDocumentMoniker": "..\\Task 3\\App.config",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\homework 17\\Task 3\\App.config",
+              "RelativeToolTip": "..\\Task 3\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-21T12:32:48.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\homework 17\\Task 3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task 3\\Program.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\homework 17\\Task 3\\Program.cs",
+              "RelativeToolTip": "..\\Task 3\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:32:47.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Numbers.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\homework 17\\Task 2\\Numbers.cs",
+              "RelativeDocumentMoniker": "Numbers.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\homework 17\\Task 2\\Numbers.cs",
+              "RelativeToolTip": "Numbers.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:19:34.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOutput.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\homework 17\\Task 2\\IOutput.cs",
+              "RelativeDocumentMoniker": "IOutput.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\homework 17\\Task 2\\IOutput.cs",
+              "RelativeToolTip": "IOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:18:04.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\homework 17\\Task 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\homework 17\\Task 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:17:24.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

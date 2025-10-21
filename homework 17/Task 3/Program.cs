@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task_2
+namespace Task_3
 {
     internal class Program
     {
@@ -20,10 +20,11 @@ namespace Task_2
                 } while (!int.TryParse(Console.ReadLine(), out _nums[i]));
             }
 
-            // log even and odd numbers
+            // log number infos
             Numbers nums = new Numbers(_nums);
-            nums.ShowEven();
-            nums.ShowOdd();
+            Console.WriteLine($"Distinct number count: {nums.CountDistinct()}");
+            Console.Write("Enter any number: ");
+            Console.WriteLine($"Provided number in string: {nums.EqualToValue(int.Parse(Console.ReadLine()))} times");
         }
     }
 }
