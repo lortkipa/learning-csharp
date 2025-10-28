@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nika\\learning-csharp\\homework 19\\Task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE96ACA4-5700-4DE9-B8E9-FC4FE51F8523}|..\\Task 2\\Task 2.csproj|c:\\users\\nika\\learning-csharp\\homework 19\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE96ACA4-5700-4DE9-B8E9-FC4FE51F8523}|..\\Task 2\\Task 2.csproj|c:\\users\\nika\\learning-csharp\\homework 19\\task 2\\userinputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE96ACA4-5700-4DE9-B8E9-FC4FE51F8523}|..\\Task 2\\Task 2.csproj|c:\\users\\nika\\learning-csharp\\homework 19\\task 2\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D86CE65-E41B-42E8-A79C-2E6D349420D2}|Task 1.csproj|c:\\users\\nika\\learning-csharp\\homework 19\\task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D86CE65-E41B-42E8-A79C-2E6D349420D2}|Task 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\homework 19\\Task 2\\Exceptions.cs",
+              "RelativeDocumentMoniker": "..\\Task 2\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\homework 19\\Task 2\\Exceptions.cs",
+              "RelativeToolTip": "..\\Task 2\\Exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:00:15.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\homework 19\\Task 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\homework 19\\Task 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:55:25.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInputValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\homework 19\\Task 2\\UserInputValidator.cs",
+              "RelativeDocumentMoniker": "..\\Task 2\\UserInputValidator.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\homework 19\\Task 2\\UserInputValidator.cs",
+              "RelativeToolTip": "..\\Task 2\\UserInputValidator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:45:40.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nika\\learning-csharp\\homework 19\\Task 2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Nika\\learning-csharp\\homework 19\\Task 2\\Program.cs",
+              "RelativeToolTip": "..\\Task 2\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAC8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:44:59.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
